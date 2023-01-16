@@ -1,0 +1,314 @@
+html{
+    background: rgb(83, 83, 83);
+    border-top: 5px solid  rgb(45, 219, 112);;
+}
+
+div.A{
+    width: 280px;
+    float: left;
+    position: relative;
+    left: 173px;
+    
+}
+div.Big{
+    position: relative;
+    bottom: 88px;
+}
+div.Big2{
+    position: relative;
+    bottom: 44px;
+}
+div.A h2{
+    position: absolute; 
+    color: white;
+     
+}
+h6.h6{
+    position:absolute;
+    top: 20px;
+    left: 8px;
+    color: rgb(184, 182, 182);
+}
+nav.h{
+    width: 800px;
+    
+    height: 40px;
+    
+    position: relative;
+    left: 365px;
+    top: 24px;
+    
+   
+}   
+ul li a{
+    
+    color: white;
+    text-decoration: none;
+    
+    margin: 14px;
+}
+div.fix{
+    background-color: rgb(20, 17, 17);
+    position: -webkit-sticky;
+    position:sticky;
+    top: 2px;
+    width: 1188px;
+    height: 88px;
+    z-index: 1;
+    
+    
+    
+    
+}
+
+ul li a.f:hover{
+    padding: 10px;
+    background: rgb(57, 218, 118);
+    
+}
+ul li a h3{
+    color: black;
+    position: relative;
+    left: 14px;
+    top: 48px;
+    
+}
+
+.TI{
+   position: relative; 
+    
+    left: 14px;
+    
+    
+}
+
+.rty{
+    font-size: small;
+    
+    color: rgb(160, 157, 157);
+}
+.rty2{
+    font-size: small;
+    position: relative;
+    bottom: 18px;
+    color: rgb(160, 157, 157);
+}
+
+div.w1{
+    position: relative;
+    top: 44px;
+}
+
+.d{
+    background: rgb(57, 218, 118);
+    height: 22px;
+    padding: 8px;
+}
+ul li{
+    list-style-type: none;
+    float: left;
+}
+
+.B{
+    position: relative;
+    left: 218px;
+    top: 108px;
+    width: 288px;
+
+}
+
+
+.V{
+    color: white;  
+}
+.T{
+    position: absolute;
+    top: 10px;
+    color: white;
+}
+.k{
+    position: relative;
+    left: 311px;
+    bottom: 88px;
+    
+}
+nav.w2{
+    position: relative;
+    top: 88px;
+    left:170px ;
+    
+}
+ nav.w2 a{
+    
+    
+    width: 122px;
+    height: 188px;
+    background: white;
+    float: left;
+    margin: 8px;
+    padding: 9PX;
+
+}
+
+hr.h{
+    clear: both;
+    position: relative;
+    top: 155px;
+    color: black;
+    background: black;
+    
+}
+div.p{
+    position: relative;
+    top: 124px;
+    left: 450px;
+    color: white;
+    background: black;
+    width: 155px;
+    
+    
+
+}
+.im2 img{
+    padding: 2px;
+    width: 33px;
+    height: 33px;
+    cursor: pointer;
+    position: relative;
+    bottom:99px;
+    left: 148px;
+    
+}
+.im1 img{
+    padding: 2px;
+    width: 33px;
+    height: 33px;
+    cursor: pointer;
+    position: relative;
+    bottom:138px;
+    left: 800px;
+    
+}
+h3.j{
+    position: relative;
+    left: 8px;
+}
+div.i{
+    position: relative;
+    top: 111px;
+    right: 202px;
+    
+    
+}
+div.i a{
+    float: left;
+    margin: 6px;
+    border: solid 4px rgb(252, 253, 251);
+}
+ul li a.f2:hover{
+    
+    border: solid 4px  rgb(57, 218, 118);
+    
+}
+div.b2{
+    position: relative;
+    top: 555px;
+    padding: 8px;
+    background: rgb(56, 56, 56);
+    
+}
+
+
+div.n2{
+    color: rgb(230, 218, 218);
+    position: relative;
+    right: 588px;
+    height: 333px;
+    bottom: 148px;
+}
+div.v2{
+    float: left;
+}
+div.s2{
+    float: left;
+    position: relative;
+    left: 77px;
+}
+
+
+div.k2{
+    float: left;
+    position: relative;
+    left: 1280px;
+    bottom: 348px;
+}
+div.f2{
+    
+    position: relative;
+    top: 164px;
+    left: 699px;
+}
+input{
+    background: rgb(41, 40, 40);
+    color: rgb(209, 194, 194);
+    margin: 4px;
+}
+
+button.S{
+    position: relative;
+    left: 628px;
+    bottom: 370px;
+    color: #000;
+    background: rgb(37, 175, 83);
+    padding: 5px;
+    cursor: pointer;
+}
+hr.h2{
+    width: 188px;
+}
+textarea{
+    position: relative;
+    left: 624px;
+    bottom: 370px;
+    color: rgb(209, 194, 194);
+    background: rgb(41, 40, 40);
+    margin: 4px; 
+
+}
+div.d2{
+    width: 1196px;
+    height: 42px;
+    border: solid 2px;
+    background: rgb(37, 36, 36);
+    position: relative;
+    top: 556px;
+    
+    
+    
+}
+div.d2 h6{
+    bottom: 144px;
+    position: relative;
+    left: 28px;
+    color: rgb(230, 218, 218);
+    
+    
+}
+div.g2{
+    background: rgb(31, 30, 30);
+    position:relative ;
+    top: 299px;
+    padding: 14px;
+}
+h2.M2{
+    color: rgb(201, 96, 58);
+}
+h3.M3{
+    color: white;
+}
+.pb{
+    color:  rgb(57, 218, 118);;
+}
+.pb2{
+    color:  rgb(94, 95, 94);;
+}
